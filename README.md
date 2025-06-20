@@ -14,6 +14,8 @@ This is a beginner-friendly food recipe website built using *HTML* and *CSS. The
 - 🔸 Fully styled Contact Us section using a table
 - 🔸 Custom yellow *Send* button in its own block, just like real websites
 - 🔸 Responsive and neat layout for learning purpose
-
+## How to view
+- live website
+- github
 
 
