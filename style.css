@@ -1,0 +1,110 @@
+
+
+.reestar__food-img{
+    width: 200px;
+    height: 200px;
+    
+}
+.reestar__food-container-one{
+    width: 200px;
+    padding: 10px;
+    margin: 0px;
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    display: inline-block;
+}
+.reestar__navbar{
+    text-align: center;
+    background-color: black;
+    color:aliceblue;
+    padding: 10px;
+}
+.reestar__food-container-two{
+    width: 200px;
+    padding: 10px;
+    margin: 0px;
+    border: 1px solid black;
+    background-color: gray;
+    text-align: center;
+    border-radius: 10px;
+    display: inline-block;
+    color: antiquewhite;
+}
+.reestar__food-container-three{
+    width: 200px;
+    padding: 10px;
+    margin: 0px;
+    border: 1px solid black;
+    background-color:gray;
+    text-align: center;
+    border-radius: 10px;
+    display: inline-block;color: antiquewhite;
+}
+.reestar__food-container-one{
+    width: 200px;
+    padding: 10px;
+    margin: 0px;
+    border: 1px solid black;
+    background-color:gray;
+    text-align: center;
+    border-radius: 10px;
+        display: inline-block;
+    color: antiquewhite;}
+    .reestar__food-container-four{
+    width: 200px;
+    padding: 10px;
+    margin: 0px;
+    border: 1px solid black;
+    background-color:gray;
+    text-align: center;
+    border-radius: 10px;
+        display: inline-block;
+    color: antiquewhite;}
+.reestar__food-container-main{
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: 20px;
+    background-color: bisque;
+    
+}
+.reestar__contact{
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+}
+.reestar__contact-title{
+    color: white;
+}
+.reestar__contact-table{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: antiquewhite;
+    padding: 20px;
+    
+    border: 20px;
+    margin: 20px;
+    font-size: larger;
+}
+.reestar__send-button{
+    border: black thin 2px;
+    background-color:yellow;
+    
+    padding: 5px;
+    
+    color: black;
+    
+}
+.reestar__button{
+    background-color: brown;
+    color: azure;
+    padding: 20px;
+    border: 1px thin white;
+    margin: 20px;
+}
+
